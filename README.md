@@ -22,6 +22,7 @@
   - alacritty com caputin e nerdfonts
   - nvim
   - vscode
+  - neofetch
   - yay
   - timeshift
   - gnome extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
