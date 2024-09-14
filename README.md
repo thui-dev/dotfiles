@@ -27,8 +27,9 @@
   - timeshift
   - gnome extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
   - [locales do brasil](https://wiki.archlinux.org/title/Locale) caso tenha esquecido de configurar no archinstall script
-  - [alt tab em instâncias](https://superuser.com/questions/394376/how-to-prevent-gnome-shells-alttab-from-grouping-windows-from-similar-apps)
+  - [alt tab em instâncias](https://superuser.com/questions/394376/how-to-prevent-gnome-shells-alttab-from-grouping-windows-from-similar-apps)(acho que nem precisa disso na real, quase certeza que tem nas configurações normais do gnome. já adiciona o shortcut super+t pra teminal tbm
   - [pop shell](https://diolinux.com.br/sistemas-operacionais/opensuse/pop-shell-outras-distros.html) (window tiling manager do popOS)
+  - [filosofia do gnome](https://www.youtube.com/watch?v=5jzN0_UXNII)
 
 
 # code env
