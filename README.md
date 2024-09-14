@@ -16,6 +16,15 @@
 - [tutorial de timeshift com BTRFS](https://youtu.be/V1wxgWU0j0E) (que nao funciona)
   <br></br>
   - [ativar backup com BTRFS](https://www.youtube.com/watch?v=TFhoBYakkY4) (funciona)
+  <br></br>
+  - firefox
+  - chrome
+  - alacritty com caputin e nerdfonts
+  - nvim
+  - vscode
+  - yay
+  - timeshift
+  - gnome extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
 
 
 # code env
