@@ -26,6 +26,8 @@
   - yay
   - timeshift
   - gnome extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
+  - [locales do brasil](https://wiki.archlinux.org/title/Locale) caso tenha esquecido de configurar no archinstall script
+  - [alt tab em instâncias](https://superuser.com/questions/394376/how-to-prevent-gnome-shells-alttab-from-grouping-windows-from-similar-apps)
 
 
 # code env
