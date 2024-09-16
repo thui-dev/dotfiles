@@ -26,7 +26,12 @@
 - neofetch
 - yay
 - timeshift
-- gnome extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/) / dash to dock / open bar / fuzzy-search
+- gnome extensions
+  - [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
+  - dash to dock
+  - open bar
+  - fuzzy-search
+  - [blur my shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [locales do brasil](https://wiki.archlinux.org/title/Locale) caso tenha esquecido de configurar no archinstall script
 - [alt tab em instâncias](https://superuser.com/questions/394376/how-to-prevent-gnome-shells-alttab-from-grouping-windows-from-similar-apps)(acho que nem precisa disso na real, quase certeza que tem nas configurações normais do gnome. já adiciona o shortcut super+t pra teminal tbm
 - [pop shell & launcher](https://diolinux.com.br/sistemas-operacionais/opensuse/pop-shell-outras-distros.html) / [cosmic](https://system76.com/cosmic) e alternativas [1](https://askubuntu.com/questions/1351357/is-there-a-way-to-install-just-the-pop-launcher-in-ubuntu) / [2](https://plus.diolinux.com.br/t/talvez-agora-voce-tenha-bons-motivos-para-usar-o-pop-launcher-tambem/37979)
