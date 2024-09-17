@@ -26,6 +26,7 @@
 - neofetch
 - yay
 - timeshift
+- [all-repository-fonts](https://aur.archlinux.org/packages/all-repository-fonts)
 - gnome extensions
   - [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
   - dash to dock
