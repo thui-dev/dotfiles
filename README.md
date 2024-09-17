@@ -26,7 +26,10 @@
 - neofetch
 - yay
 - timeshift
-- [Microsoft fonts](https://wiki.archlinux.org/title/Microsoft_fonts), [all-repository-fonts](https://aur.archlinux.org/packages/all-repository-fonts)
+- [Fonts](https://wiki.archlinux.org/title/Fonts)
+  - [ttf-ms-win11](https://aur.archlinux.org/packages/ttf-ms-win11)
+  - [ttf-roboto](https://archlinux.org/packages/?name=ttf-roboto)
+  - inter-font
 - gnome extensions
   - [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
   - dash to dock
